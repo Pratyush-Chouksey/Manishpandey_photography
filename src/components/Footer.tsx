@@ -41,11 +41,11 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="tel:08412850833"
+                  href="tel:087934 68004"
                   className="flex items-start space-x-2 text-primary-foreground/80 hover:text-accent smooth-transition text-sm"
                 >
                   <Phone className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                  <span>084128 50833</span>
+                  <span>087934 68004</span>
                 </a>
               </li>
               <li>
@@ -73,7 +73,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center space-x-4">
               <a
-                href="https://www.instagram.com/crystalskyphotography_/"
+                href="https://www.instagram.com/manishpande_photography"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-accent smooth-transition group"
@@ -81,7 +81,7 @@ const Footer = () => {
                 <Instagram className="w-5 h-5 text-primary-foreground group-hover:text-accent-foreground" />
               </a>
               <a
-                href="https://wa.me/918412850833"
+                href="https://wa.me/918793468004"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-green-500 smooth-transition group"

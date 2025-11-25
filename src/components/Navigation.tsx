@@ -33,7 +33,7 @@ const Navigation = () => {
           {/* Logo */}
           <a href="#home" className="flex items-center space-x-2 group">
             <span className="text-2xl sm:text-3xl font-serif font-bold text-gradient-gold smooth-transition group-hover:scale-105">
-              Crystal Sky
+              Manish Pandey Photography
             </span>
           </a>
 
@@ -53,13 +53,13 @@ const Navigation = () => {
 
           {/* CTA Buttons */}
           <div className="hidden lg:flex items-center space-x-4">
-            <a href="tel:08412850833">
+            <a href="tel:08793468004">
               <Button variant="ghost" size="sm" className="smooth-transition hover:text-accent text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Call Us
               </Button>
             </a>
-            <a href="https://www.instagram.com/crystalskyphotography_/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/manishpande_photography" target="_blank" rel="noopener noreferrer">
               <Button variant="default" size="sm" className="bg-accent text-accent-foreground hover:bg-accent/90 smooth-transition">
                 <Instagram className="w-4 h-4 mr-2" />
                 Follow
@@ -92,13 +92,13 @@ const Navigation = () => {
               </a>
             ))}
             <div className="flex flex-col space-y-2 pt-4 border-t border-border ">
-              <a href="tel:08412850833">
+              <a href="tel:08793468004">
                 <Button variant="outline" size="sm" className="w-full smooth-transition text-white">
                   <Phone className="w-4 h-4 mr-2 " />
                   Call Us
                 </Button>
               </a>
-              <a href="https://www.instagram.com/crystalskyphotography_/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/manishpande_photography" target="_blank" rel="noopener noreferrer">
                 <Button variant="default" size="sm" className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
                   <Instagram className="w-4 h-4 mr-2" />
                   Follow on Instagram

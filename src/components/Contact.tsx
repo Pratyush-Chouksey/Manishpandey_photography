@@ -6,26 +6,26 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Phone',
-      content: '084128 50833',
-      link: 'tel:08412850833',
+      content: '087934 68004',
+      link: 'tel:087934 68004',
     },
     {
       icon: Mail,
       title: 'Email',
-      content: 'info@crystalskyphotography.com',
-      link: 'mailto:info@crystalskyphotography.com',
+      content: 'info@manishpande_photography.com',
+      link: 'mailto:info@manishpande_photography.com',
     },
     {
       icon: MapPin,
       title: 'Address',
-      content: 'Somwari quarter, nearby kamgar kalyan, Raghuji Nagar, Nagpur, Maharashtra 440024',
+      content: 'Shambhu Nagar, Nagpur, Maharashtra 440030',
       link: 'https://maps.google.com/?q=Raghuji+Nagar+Nagpur+Maharashtra+440024',
     },
     {
       icon: Instagram,
       title: 'Instagram',
-      content: '@crystalskyphotography_',
-      link: 'https://www.instagram.com/crystalskyphotography_/',
+      content: '@manishpande_photography',
+      link: 'https://www.instagram.com/manishpande_photography',
     },
   ];
 
@@ -86,7 +86,7 @@ const Contact = () => {
                 </p>
               </div>
               <a
-                href="https://wa.me/918412850833"
+                href="https://wa.me/918793468004"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-shrink-0"
@@ -103,7 +103,7 @@ const Contact = () => {
           <div className="mt-12">
             <Card className="overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.2966765957!2d79.08!3d21.14!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjHCsDA4JzI0LjAiTiA3OcKwMDQnNDguMCJF!5e0!3m2!1sen!2sin!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56097.999035132925!2d79.05119046660914!3d21.19239071429046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4c137db9b7303%3A0x37396ba59d09106a!2sManish%20Pande%20Photography%20(Wedding%20Photographer)!5e1!3m2!1sen!2sin!4v1764055493662!5m2!1sen!2sin"
                 width="100%"
                 height="400"
                 style={{ border: 0 }}

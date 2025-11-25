@@ -16,7 +16,7 @@ const About = () => {
           {/* Section Header */}
           <div className="text-center mb-16">
             <h2 className="text-4xl sm:text-5xl font-serif font-bold text-foreground mb-4">
-              About <span className="text-gradient-gold">Crystal Sky</span>
+              About <span className="text-gradient-gold">Manish Pandey Photography</span>
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Where passion meets perfection in wedding photography
@@ -31,7 +31,7 @@ const About = () => {
                 Artistic Story Telling Celebrating YOU!
               </h3>
               <p className="text-muted-foreground leading-relaxed">
-                Welcome to Crystal Sky Photography, where we infuse magic into your wedding memories, 
+                Welcome to Manish Pandey Photography Photography, where we infuse magic into your wedding memories, 
                 turning them into timeless tales of love and companionship.
               </p>
               <p className="text-muted-foreground leading-relaxed">
@@ -80,15 +80,14 @@ const About = () => {
               <div>
                 <h4 className="font-semibold text-foreground mb-2">📍 Location</h4>
                 <p className="text-sm text-muted-foreground">
-                  Somwari quarter, nearby kamgar kalyan,<br />
-                  Raghuji Nagar, Nagpur, Maharashtra 440024
+                  Shambhu Nagar, Nagpur, Maharashtra 440030
                 </p>
               </div>
               <div>
                 <h4 className="font-semibold text-foreground mb-2">📞 Contact</h4>
                 <p className="text-sm text-muted-foreground">
-                  <a href="tel:08412850833" className="hover:text-accent smooth-transition">
-                    084128 50833
+                  <a href="tel:087934 68004" className="hover:text-accent smooth-transition">
+                    087934 68004
                   </a>
                 </p>
               </div>
@@ -96,12 +95,12 @@ const About = () => {
                 <h4 className="font-semibold text-foreground mb-2">📸 Follow Us</h4>
                 <p className="text-sm text-muted-foreground">
                   <a
-                    href="https://www.instagram.com/crystalskyphotography_/"
+                    href="https://www.instagram.com/manishpande_photography"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-accent smooth-transition"
                   >
-                    @crystalskyphotography_
+                    @manishpande_photography
                   </a>
                 </p>
               </div>

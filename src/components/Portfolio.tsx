@@ -78,7 +78,7 @@ const Portfolio = () => {
               Want to see more of our work?
             </p>
             <a
-              href="https://www.instagram.com/crystalskyphotography_/"
+              href="https://www.instagram.com/manishpande_photography"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center text-accent hover:text-accent/80 smooth-transition font-medium"
